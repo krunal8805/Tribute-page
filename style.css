@@ -1,0 +1,28 @@
+body {
+    /* background-color: aqua; */
+    border:10px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 22px;
+    
+}
+.bdn {
+padding: 50px;
+background-color: beige;
+font:italic;
+}
+.heading {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+.imge{
+    align-items: center;
+    margin-left: 250px;
+}
+.mains {
+    align-items: center;
+    justify-content: center;
+margin-left:200px ;
+}
